@@ -1,1 +1,8 @@
+table, tr, th ,td{
+	text-align:center; 
+	border:1px solid black;
+	width:50%;
+	background:yellow;
+}
+
 /*  your css code here. If applicable */
